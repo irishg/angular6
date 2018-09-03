@@ -1,6 +1,6 @@
 # Angular 6 Tutorial - Learn Angular 6 in this Crash Course 
 
-This is the code for the 60 minutes tutorial. You can watch it <a href="https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course">here</a>
+This is the code for the Angular 6 crash course. You can watch it <a href="https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course">here</a>
 
 ## Prerequisites
 
