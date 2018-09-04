@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Nuno Ricardo Correia Rodrigues",
+    "username": "NunoR",
+    "email": "nuno.r.rodrigues@outlook.pt",
+    "address": {
+      "street": "Rua Bernardo Francisco da Costa n65",
+      "suite": "1Esq",
+      "city": "Almada",
+      "zipcode": "2800-033",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+351 969 033 182",
+    "website": "nunoricardorodrigues.pt",
+    "company": {
+      "name": "Not avaiable",
+      "catchPhrase": "UI / Front-end developer",
+      "bs": "ui front-end"
+    }
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "username": "JohnD",
+    "email": "john.doe@outlook.pt",
+    "address": {
+      "street": "Same where in the world",
+      "suite": "1",
+      "city": "World",
+      "zipcode": "0000-000",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+351 000 000 000",
+    "website": "google.com",
+    "company": {
+      "name": "Not avaiable",
+      "catchPhrase": "Not avaiable",
+      "bs": "not avaiable"
+    }
+  }
+]
