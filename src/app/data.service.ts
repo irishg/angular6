@@ -23,6 +23,7 @@ export class DataService {
   }
 
   getUsers() {
+    console.log(this.status);
     if (this.status === 'ONLINE'){
       return this.http.get('https://jsonplaceholder.typicode.com/users')
     } else {

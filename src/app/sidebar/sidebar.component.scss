@@ -18,6 +18,13 @@ nav {
             .activated {
                 background-color: #00a8ff;
             }
+
+            &.person {
+                position: absolute;
+                bottom: 0;
+                width: 70px;
+                background-color: tomato;
+            }
         }
     }
     

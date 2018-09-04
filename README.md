@@ -1,6 +1,8 @@
-# Angular 6 Tutorial - Learn Angular 6 in this Crash Course 
+# Angular 6 Learning 
 
-This is the code for the Angular 6 crash course. You can watch it <a href="https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course">here</a>
+Angular 6 crash course click <a href="https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course">here</a>
+
+Login and Router <a href="https://medium.com/@ozgurgul/angular-6-login-and-router-tutorial-ac5fc5d3027f">here</a>
 
 ## Prerequisites
 
