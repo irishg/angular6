@@ -13,6 +13,8 @@ export class LoginPageComponent {
   email = 'peter@klaven';
   password = 'cityslicka';
 
+  show = false;
+
   constructor(private api: ApiService, private customer: CustomerService, private router: Router) {
   }
 
@@ -31,6 +33,10 @@ export class LoginPageComponent {
         r => {
           alert(r.error.error);
         });
+  }
+
+  public showFunc() {
+    this.show = !this.show;
   }
 
 }
